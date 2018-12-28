@@ -1,0 +1,67 @@
+.ui.small.image {
+  padding: 20px;
+  text-align: center;
+  width: 180px;
+}
+
+.ui.borderless.menu.top {
+  border: none;
+  box-shadow: none;
+}
+
+.ui.segment {
+  height: 9%;
+  background-color: #D8EDED;
+  border: none;
+  box-shadow: none;
+  margin: 0;
+
+}
+
+.ui.button {
+  margin-left: 50px;
+  background-color: #5DB8E7;
+  border-radius: 0;
+  color: white;
+}
+
+#backgroundimg {
+  background-image: url("https://cdn.cos.io/media/images/amazon-research-3.original.jpg");
+  height:497px;
+
+}
+
+#backgroundimg h1{
+  color: #ecff6f;
+  text-align: center;
+  padding-top: 275px;
+  font-size: 300%;
+  font-weight: 500;
+  line-height:140%;
+}
+
+.ui.divider.middle {
+  margin-top: 5em;
+  margin-bottom: 3em;
+}
+
+.ui.divider.bottom {
+  margin-bottom: 5em;
+  margin-top: 3em;
+}
+
+#coloredp {
+  color: #34BAEC;
+  line-height: 140%;
+  font-size: 150%;
+  font-weight: 500;
+  padding: 30px;
+}
+
+.ui.button.huge.middle.basic {
+  margin-left: 40%;
+  margin-top: 30px;
+  color: #5DB8E7 !important;
+  box-shadow: 0 0 0 3px #5DB8E7 inset;
+  border-radius: 0px;
+}
