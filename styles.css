@@ -46,7 +46,7 @@
 }
 
 .ui.divider.bottom {
-  margin-bottom: 5em;
+  margin-bottom: 2em;
   margin-top: 3em;
 }
 
@@ -64,4 +64,13 @@
   color: #5DB8E7 !important;
   box-shadow: 0 0 0 3px #5DB8E7 inset;
   border-radius: 0px;
+}
+.ui.center.aligned.container.bottom h1{
+  color: #015985;
+}
+.ui.center.aligned.container.bottom p {
+  font-size: 15px;
+}
+#lolmargin {
+  margin-top: 35px;
 }
